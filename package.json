@@ -1,0 +1,38 @@
+{
+  "name": "smoking-cessation-interview-sheets-jp",
+  "version": "1.0.0",
+  "description": "Interview sheets for smoking cessation in Japanese",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CureApp/smoking-cessation-interview-sheets-jp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CureApp/smoking-cessation-interview-sheets-jp/issues"
+  },
+  "homepage": "https://github.com/CureApp/smoking-cessation-interview-sheets-jp",
+  "keywords": [
+    "Japanese",
+    "smoking",
+    "TDS",
+    "FTND",
+    "KTSND",
+    "MPSS",
+    "FTCQ12",
+    "tobacco",
+    "medical",
+    "nicotine dependence",
+    "Fagerstrom"
+  ],
+  "author": "CureApp, Inc.",
+  "license": "MIT",
+  "dependencies": {
+    "ftcq-12-ja": "^1.0.0",
+    "ftnd-test-ja": "^1.0.0",
+    "ktsnd-test-ja": "^1.0.0",
+    "mpss-test-ja": "^1.0.0",
+    "tds-test-ja": "^1.0.0"
+  },
+  "devDependencies": {}
+}
