@@ -28,7 +28,7 @@
   "author": "CureApp, Inc.",
   "license": "MIT",
   "dependencies": {
-    "ftcq-12-ja": "^1.0.0",
+    "ftcq-12-ja": "^1.0.1",
     "ftnd-test-ja": "^1.0.0",
     "ktsnd-test-ja": "^1.0.0",
     "mpss-test-ja": "^1.0.1",
