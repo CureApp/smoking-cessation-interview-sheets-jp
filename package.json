@@ -1,6 +1,6 @@
 {
   "name": "smoking-cessation-interview-sheets-jp",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Interview sheets for smoking cessation in Japanese",
   "main": "index.js",
   "scripts": {},
@@ -28,7 +28,7 @@
   "author": "CureApp, Inc.",
   "license": "MIT",
   "dependencies": {
-    "ftcq-12-ja": "^1.0.1",
+    "ftcq-12-ja": "^1.0.3",
     "ftnd-test-ja": "^1.0.0",
     "ktsnd-test-ja": "^1.0.0",
     "mpss-test-ja": "^1.0.1",
