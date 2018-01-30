@@ -3,7 +3,9 @@
   "version": "1.0.3",
   "description": "Interview sheets for smoking cessation in Japanese",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "node test.js"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/CureApp/smoking-cessation-interview-sheets-jp.git"
